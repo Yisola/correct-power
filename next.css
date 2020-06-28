@@ -37,6 +37,13 @@ header{
     }
 }
 
+
+#logo{
+    width: 100px;
+    height:100px ;
+    margin-left: 50px;
+}
+
 .push{
     margin-left: auto;
     display: inline-flex;
@@ -81,7 +88,7 @@ aside{
   
     color: rgb(134, 17, 17) ;
     position: absolute;
-    left: 19%;
+    left: 17%;
     top: 13%;
 }
 
@@ -146,7 +153,7 @@ aside{
  .review {
     color: blueviolet ;
     position: absolute;
-    left: 19.5%;
+    left: 17%;
     top: 38%;
 }
 
@@ -164,12 +171,11 @@ aside{
 
 .payment {
     position: absolute;
-    left: 23% ;
+    left: 21% ;
     top: 63%;
 }
 
 main{
-    
     background-color: seagreen;
     flex-grow: 3;
 }
